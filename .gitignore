@@ -1,0 +1,8 @@
+# termux-toolkit
+*.log
+*~
+.testhome/
+
+# local tooling breaks
+nohup.out
+*.swp
